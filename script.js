@@ -1,5 +1,7 @@
-document.getElementById("startBtn").addEventListener("click",function(){
+const startBtn = document.getElementById("startBtn");
 
-alert("Coming Soon...");
+startBtn.addEventListener("click", () => {
+
+    alert("Rules Screen Coming Next!");
 
 });
