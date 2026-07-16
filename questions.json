@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "difficulty": "Easy",
+    "category": "Movie",
+    "question": "Which movie features the dialogue 'Mere Karan Arjun Aayenge'?",
+    "options": [
+      "Border",
+      "Karan Arjun",
+      "Baazigar",
+      "Sholay"
+    ],
+    "answer": "Karan Arjun"
+  }
+]
